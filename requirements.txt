@@ -4,3 +4,10 @@ fastapi
 uvicorn
 python-multipart
 pillow
+pandas
+pyarrow
+httpx
+# Notebook only
+matplotlib
+seaborn
+scikit-learn
